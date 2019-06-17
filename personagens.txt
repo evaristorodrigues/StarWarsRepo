@@ -1,5 +1,9 @@
 Luke SkyWalker
 Darth Vader
+<<<<<<< HEAD
 exericio1
 teste
 reverse
+=======
+exericio1
+>>>>>>> parent of ac71d6a... Testando compartilhamento
