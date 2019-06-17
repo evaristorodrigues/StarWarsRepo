@@ -1,3 +1,5 @@
 espada
 faca
 facao
+revolver
+
