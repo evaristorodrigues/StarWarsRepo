@@ -1,4 +1,14 @@
 Luke SkyWalker
 Darth Vader
+<<<<<<< HEAD
 exericio1
 teste
+=======
+<<<<<<< HEAD
+exericio1
+teste
+reverse
+=======
+exericio1
+>>>>>>> parent of ac71d6a... Testando compartilhamento
+>>>>>>> parent of 0030626... Revert "Testando compartilhamento"
