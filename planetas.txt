@@ -2,7 +2,10 @@ Alderaan
 Coruscant
 Endor
 Jupter
-<<<<<<< HEAD
 Plutão
 Netuno
 Lua
+Plutão
+Netuno
+Lua
+
