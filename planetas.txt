@@ -8,4 +8,5 @@ Lua
 Plutão
 Netuno
 Lua
+urano
 
