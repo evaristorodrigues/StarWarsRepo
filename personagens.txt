@@ -4,4 +4,6 @@ exericio1
 teste
 reverse
 Pinguim
+Coringa
+
 
