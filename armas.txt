@@ -2,4 +2,5 @@ espada
 faca
 facao
 revolver
+dinheiro
 
